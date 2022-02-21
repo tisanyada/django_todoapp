@@ -1,1 +1,1 @@
-web gunicorn iwari.wsgi:application --log-file -
+web gunicorn tiis-todoapp.wsgi:application --log-file -
