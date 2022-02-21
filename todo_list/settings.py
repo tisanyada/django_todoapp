@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-=tn+4#no@7l9_+^w*ndjmap2bjpipf3spgnt=_5#@n1j5=+_tx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["tiis-todoapp.herokuapp.com/", '127.0.0.1']
+ALLOWED_HOSTS = ["tiis-todoapp.herokuapp.com", '127.0.0.1']
 
 
 # Application definition
