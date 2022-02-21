@@ -1,0 +1,1 @@
+web gunicorn iwari.wsgi:application --log-file -
