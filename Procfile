@@ -1,1 +1,1 @@
-web gunicorn tiis-todoapp.wsgi:application --log-file -
+web gunicorn todo_list.wsgi:application --log-file -
